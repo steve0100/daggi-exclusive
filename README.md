@@ -1,1 +1,1 @@
-# dasggi-exclusive
+# daggi-exclusive.chat
